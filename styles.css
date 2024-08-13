@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+strong{
+    color: rgb(99, 132, 198);
+
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.botao {
+    display: inline-block;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    background-color: #089369;
+    color: white;
+    border-radius: 8px;
+    margin: 5px;
+}
+.botao:hover {
+    background-color: #0b7794;
+}
