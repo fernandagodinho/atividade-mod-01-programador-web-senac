@@ -1,2 +1,2 @@
-O exercicio tem como objetivo fazer uma pagina web , fiz um prototipo no figma e utilizei o vscode para dar vida ao meu projeto basico 
+O exercicio tem como objetivo fazer uma pagina web  com imagens e botoes direcionando para redes sociais, fiz um prototipo no figma e utilizei o vscode para dar vida ao meu projeto basico 
 foram os primeiro passos para construição...... 
